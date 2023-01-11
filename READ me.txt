@@ -1,0 +1,8 @@
+NAME: ZUKISA MALIWA
+
+Project: online store
+
+please create the database (db_shop) on PHP My admin then import the database located in this folder
+
+find my video presentation link below
+https://www.loom.com/share/400d574718a74688a9b140c1b687a484
